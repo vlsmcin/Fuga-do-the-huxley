@@ -1,5 +1,5 @@
 # Fuga-do-the-huxley
-Integrantes
+Integrantes:
 
 Álvaro Brandão Neto
 
